@@ -17,8 +17,8 @@ h2 {
     font-size: 1.5em;
     padding: .8em 0;
     color: #fffebb;
-    border-bottom-color: #fffebb;}
-    text-decoration: underline;
+    border-bottom-color: #fffebb;
+    text-decoration: underline;}
 nav a {
     text-decoration: none;
   color: black;
@@ -32,7 +32,7 @@ nav {
     list-style: none;
     margin: 0;
     padding: 0;
-}
+
 }
 li {
   float: left;
@@ -68,11 +68,10 @@ div {
     text-decoration: underline;
 }
 
-}
 
 #services {
-    float: right;
-}</style>
+    float: right;}
+</style>
         <h1>ELK Web Design</h1>
         <nav>
             <a href="#">work</a>
