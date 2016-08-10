@@ -27,7 +27,8 @@ nav a {
 }
 nav {
     font-size: 1.8em;
-     float: right;
+     float: right;}
+     
      ul {
     list-style: none;
     margin: 0;
@@ -68,9 +69,9 @@ div {
     text-decoration: underline;
 }
 
-
 #services {
     float: right;}
+    
 </style>
         <h1>ELK Web Design</h1>
         <nav>
